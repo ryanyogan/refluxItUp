@@ -1,0 +1,19 @@
+{
+  "name": "refluxItUp",
+  "version": "0.0.1",
+  "authors": [
+    "Ryan Yogan <ryanyogan@gmail.com>"
+  ],
+  "description": "Playing with reflux",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "foundation": "~5.4.7"
+  }
+}
